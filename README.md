@@ -20,7 +20,7 @@ This session explores Explore the intersection of mathematics and web developmen
 ---
 
 ## 📑 Slides
-[**View Slides**](#)
+[**View Slides**](https://github.com/cyatteau/math-in-motion-bcc2025/blob/main/Slides.pdf)
 
 ---
 
